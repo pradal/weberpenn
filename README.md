@@ -2,7 +2,7 @@
 
 [![Docs](https://readthedocs.org/projects/weberpenn/badge/?version=latest)](https://weberpenn.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://github.com/openalea/weberpenn/actions/workflows/openalea_ci.yml/badge.svg)](https://github.com/openalea/weberpenn/actions/workflows/openalea_ci.yml)
-[![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)](https://www.python.org/downloads/)
 [![Anaconda-Server Badge](https://anaconda.org/openalea3/openalea.weberpenn/badges/version.svg)](https://anaconda.org/openalea3/openalea.weberpenn)
 [![License](https://img.shields.io/badge/License--CeCILL-C-blue)](https://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html)
 
